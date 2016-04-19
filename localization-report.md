@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 951
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 400
+[ Handoff Success Files ](#handoff-success-list)| 399
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 96
+[ Archive Success Files ](#archive-success-list)| 83
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ In Sync Handback Files ](#insync-handback-success-list)| 14
 [ Ignored Files ](#ignored-list)| 455
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -279,7 +279,6 @@
  [Acom\articles\backup\media\backup-azure-vms-first-look-arm\enable-backup-settings.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/enable-backup-settings.png) | HandedOffSuccess | [Details](#0c35cc17b090f27a2b4f1358cfb60197b0bf7153278)
  [Acom\articles\backup\media\backup-azure-vms-first-look-arm\initial-backup-not-run.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/initial-backup-not-run.png) | HandedOffSuccess | [Details](#de30550885433b5dd5e6ced5c67b0f9c75cdffe8279)
  [Acom\articles\backup\media\backup-azure-vms-first-look-arm\open-backup-jobs.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/open-backup-jobs.png) | HandedOffSuccess | [Details](#a2767d19ec417027bca5385e25b463f17a71daa7281)
- [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-attributes.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-attributes.png) | HandedOffSuccess | [Details](#b8181dee84738bf982cc86328bd201c251413e1f283)
  [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-in-dashboard-backup-vms.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-in-dashboard-backup-vms.png) | HandedOffSuccess | [Details](#b87d2903db60e67010bd587bea5a69ead6135ed2284)
  [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-menu.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-menu.png) | HandedOffSuccess | [Details](#0b43734e0b88f5870816f0b140e53ab7d6964de3286)
  [Acom\articles\backup\media\backup-azure-vms-first-look-arm\select-backup-scenario-one.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/select-backup-scenario-one.png) | HandedOffSuccess | [Details](#b751a5024aa3f8400570922e0e3bc1439d44af6c287)
@@ -429,7 +428,6 @@
  [Acom\articles\backup\backup-azure-backup-cloud-as-tape.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-cloud-as-tape.md) | ArchivedSuccess | [Details](#c58e3b8b26cd13e273be2fbb37ce03a31c09a06a4)
  [Acom\articles\backup\backup-azure-backup-exchange-server.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-exchange-server.md) | ArchivedSuccess | [Details](#502bf3fb986f2490751127290df34eef504bd0b65)
  [Acom\articles\backup\backup-azure-backup-faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-faq.md) | ArchivedSuccess | [Details](#0b5d9283448ec67f7eae5e19ca1c295b27ff23c66)
- [Acom\articles\backup\backup-azure-backup-ibiza-faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-ibiza-faq.md) | ArchivedSuccess | [Details](#560c4cea9b6163ed27afbf5d0f0b43caa2c5879f7)
  [Acom\articles\backup\backup-azure-backup-import-export.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-import-export.md) | ArchivedSuccess | [Details](#592449639db4578672242e06f74390ac9486ff218)
  [Acom\articles\backup\backup-azure-backup-sharepoint.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-sharepoint.md) | ArchivedSuccess | [Details](#f1cee09f21c1896cadbf1aa2107a193571d6adcf9)
  [Acom\articles\backup\backup-azure-backup-sql.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-sql.md) | ArchivedSuccess | [Details](#9091e4e4efcd7dc87462478f450cf057eddb01e910)
@@ -444,32 +442,20 @@
  [Acom\articles\backup\backup-azure-vms.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms.md) | ArchivedSuccess | [Details](#efc0ab286d726e0ccbb29db8e5b3b6f8a9752ed326)
  [Acom\articles\backup\backup-azure-vms-automation.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-automation.md) | ArchivedSuccess | [Details](#782553d0e9b67909b86c3d2978df3bbc1001982a19)
  [Acom\articles\backup\backup-azure-vms-encryption.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-encryption.md) | ArchivedSuccess | [Details](#fe33773d9f330e50b9f2cd696b3aa3a215dfb13620)
- [Acom\articles\backup\backup-azure-vms-first-look.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-first-look.md) | ArchivedSuccess | [Details](#debfc662c5c58f444090b8a1d4f71e194962e13322)
- [Acom\articles\backup\backup-azure-vms-first-look-arm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-first-look-arm.md) | ArchivedSuccess | [Details](#35e3445e8283a26541d3d4957b089985b5e1cbfc21)
  [Acom\articles\backup\backup-azure-vms-introduction.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-introduction.md) | ArchivedSuccess | [Details](#2cbdcd65d357d03421c70043c512fb610c1f70fb23)
  [Acom\articles\backup\backup-azure-vms-prepare.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-prepare.md) | ArchivedSuccess | [Details](#25ac8b9afb95175fd10d2c168ca0ffde970fc0f124)
  [Acom\articles\backup\backup-azure-vms-troubleshoot.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-troubleshoot.md) | ArchivedSuccess | [Details](#fda5c2197e8d223e37dddfb47fea1c52b17ad44e25)
  [Acom\articles\backup\backup-client-automation.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-client-automation.md) | ArchivedSuccess | [Details](#e8b0790273226b5aef2ffd8247ddd3754967300f27)
  [Acom\articles\backup\backup-configure-vault.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-configure-vault.md) | ArchivedSuccess | [Details](#f13afd6f6c94fe8577c2e58e1227fa2b0db0c69928)
  [Acom\articles\backup\backup-dpm-automation.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-dpm-automation.md) | ArchivedSuccess | [Details](#a7bfb7552664d1bd93f02944a2846cc568b3951429)
- [Acom\articles\backup\backup-introduction-to-azure-backup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-introduction-to-azure-backup.md) | ArchivedSuccess | [Details](#8097538ebc8f5a550ec749f2becfa9307662227f30)
- [Acom\articles\backup\backup-try-azure-backup-in-10-mins.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-try-azure-backup-in-10-mins.md) | ArchivedSuccess | [Details](#dbd0aafa45295a1126493c9c582bdb6805f8688631)
- [Acom\articles\batch\batch-account-create-portal.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-account-create-portal.md) | ArchivedSuccess | [Details](#4d822800e9ea3d3a1a2761246e86c04691c68e9d405)
- [Acom\articles\batch\batch-api-basics.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-api-basics.md) | ArchivedSuccess | [Details](#8f1c9fd9ce857488c7f63ca93010a9dc79e89f64406)
  [Acom\articles\batch\batch-application-packages.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-application-packages.md) | ArchivedSuccess | [Details](#e58a6ee5ebfe03fac3fc4dd40d5f1659370ccf5d407)
  [Acom\articles\batch\batch-automatic-scaling.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-automatic-scaling.md) | ArchivedSuccess | [Details](#8e00e2aff7b46c9ef21162ebab5cb3d538498eab408)
- [Acom\articles\batch\batch-dotnet-get-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-dotnet-get-started.md) | ArchivedSuccess | [Details](#8d2f63b09170266c96a385f297c11abc420d76f4409)
  [Acom\articles\batch\batch-efficient-list-queries.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-efficient-list-queries.md) | ArchivedSuccess | [Details](#e1df113c233d787c9f705656e159ebd9aaef8d23410)
- [Acom\articles\batch\batch-hpc-solutions.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-hpc-solutions.md) | ArchivedSuccess | [Details](#204322288d283f4a126da2e1fb08fdb690eac77b411)
  [Acom\articles\batch\batch-job-prep-release.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-job-prep-release.md) | ArchivedSuccess | [Details](#87f830cfcb09761dcd739e8d61cd80fa75d13b84412)
  [Acom\articles\batch\batch-management-dotnet.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-management-dotnet.md) | ArchivedSuccess | [Details](#8e8a1195d23a5a318f06bff01290bd7ef13fc802413)
  [Acom\articles\batch\batch-mpi.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-mpi.md) | ArchivedSuccess | [Details](#de7ec95c673a28c32c9c30c0474affeafb96e36c414)
  [Acom\articles\batch\batch-parallel-node-tasks.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-parallel-node-tasks.md) | ArchivedSuccess | [Details](#4c2bf31b377ac4a260f138afa33fda76a408cb80415)
- [Acom\articles\batch\batch-powershell-cmdlets-get-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-powershell-cmdlets-get-started.md) | ArchivedSuccess | [Details](#028eebd51820b5f8ccdb06ae2d9cfcad40655db6416)
  [Acom\articles\batch\batch-quota-limit.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-quota-limit.md) | ArchivedSuccess | [Details](#7d65f8be949abe9a1b1b51fb31d81ead9f730fe5417)
- [Acom\articles\batch\batch-technical-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-technical-overview.md) | ArchivedSuccess | [Details](#679580df2b8a4e9e8ca618337fe31d52e9b79c86418)
- [Acom\articles\batch\big-compute-resources.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/big-compute-resources.md) | ArchivedSuccess | [Details](#d76e075fb4020d1dd50a8a30261df6f89b6f0e2f419)
- [Acom\articles\cloud-services-python-ptvs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/cloud-services-python-ptvs.md) | ArchivedSuccess | [Details](#c458b5352591df29d088dc8127ef6e943c42adfb478)
  [Acom\articles\guidance\guidance-compute-3-tier-vm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/guidance/guidance-compute-3-tier-vm.md) | ArchivedSuccess | [Details](#231d4a855a76dc7f68ef4d98c1ef953c0cf85f18479)
  [Acom\includes\backup-create-vault.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/backup-create-vault.md) | ArchivedSuccess | [Details](#41983cc6e2722dbe0366de4197d90dfe42b3df15652)
  [Acom\includes\backup-create-vault-for-vms.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/includes/backup-create-vault-for-vms.md) | ArchivedSuccess | [Details](#2574255e2e33abbe9c4219db1984c07c3cd95257650)
@@ -526,6 +512,22 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [Acom\articles\backup\backup-azure-backup-ibiza-faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-ibiza-faq.md) | InSyncHandedBackSuccess | [Details](#560c4cea9b6163ed27afbf5d0f0b43caa2c5879f7)
+ [Acom\articles\backup\backup-azure-vms-first-look.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-first-look.md) | InSyncHandedBackSuccess | [Details](#debfc662c5c58f444090b8a1d4f71e194962e13322)
+ [Acom\articles\backup\backup-azure-vms-first-look-arm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-first-look-arm.md) | InSyncHandedBackSuccess | [Details](#35e3445e8283a26541d3d4957b089985b5e1cbfc21)
+ [Acom\articles\backup\backup-introduction-to-azure-backup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-introduction-to-azure-backup.md) | InSyncHandedBackSuccess | [Details](#8097538ebc8f5a550ec749f2becfa9307662227f30)
+ [Acom\articles\backup\backup-try-azure-backup-in-10-mins.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-try-azure-backup-in-10-mins.md) | InSyncHandedBackSuccess | [Details](#dbd0aafa45295a1126493c9c582bdb6805f8688631)
+ [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-attributes.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-attributes.png) | InSyncHandedBackSuccess | [Details](#b8181dee84738bf982cc86328bd201c251413e1f283)
+ [Acom\articles\batch\batch-account-create-portal.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-account-create-portal.md) | InSyncHandedBackSuccess | [Details](#4d822800e9ea3d3a1a2761246e86c04691c68e9d405)
+ [Acom\articles\batch\batch-api-basics.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-api-basics.md) | InSyncHandedBackSuccess | [Details](#8f1c9fd9ce857488c7f63ca93010a9dc79e89f64406)
+ [Acom\articles\batch\batch-dotnet-get-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-dotnet-get-started.md) | InSyncHandedBackSuccess | [Details](#8d2f63b09170266c96a385f297c11abc420d76f4409)
+ [Acom\articles\batch\batch-hpc-solutions.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-hpc-solutions.md) | InSyncHandedBackSuccess | [Details](#204322288d283f4a126da2e1fb08fdb690eac77b411)
+ [Acom\articles\batch\batch-powershell-cmdlets-get-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-powershell-cmdlets-get-started.md) | InSyncHandedBackSuccess | [Details](#028eebd51820b5f8ccdb06ae2d9cfcad40655db6416)
+ [Acom\articles\batch\batch-technical-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-technical-overview.md) | InSyncHandedBackSuccess | [Details](#679580df2b8a4e9e8ca618337fe31d52e9b79c86418)
+ [Acom\articles\batch\big-compute-resources.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/big-compute-resources.md) | InSyncHandedBackSuccess | [Details](#d76e075fb4020d1dd50a8a30261df6f89b6f0e2f419)
+ [Acom\articles\cloud-services-python-ptvs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/cloud-services-python-ptvs.md) | InSyncHandedBackSuccess | [Details](#c458b5352591df29d088dc8127ef6e943c42adfb478)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -1072,15 +1074,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='560c4cea9b6163ed27afbf5d0f0b43caa2c5879f7'></a> Source: [Acom\articles\backup\backup-azure-backup-ibiza-faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-ibiza-faq.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\backup-azure-backup-ibiza-faq.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/backup/backup-azure-backup-ibiza-faq.md)
 * Handoff File: [backup-azure-backup-ibiza-faq.4d57f916a89dceb35d677122fb6c5f71a592b0c5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-azure-backup-ibiza-faq.4d57f916a89dceb35d677122fb6c5f71a592b0c5.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [backup-azure-backup-ibiza-faq.4d57f916a89dceb35d677122fb6c5f71a592b0c5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/14c1cfc19c5287a3b194ac098d547dec4e2c83d7/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/backup-azure-backup-ibiza-faq.4d57f916a89dceb35d677122fb6c5f71a592b0c5.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:09:16
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [backup-azure-backup-ibiza-faq.4d57f916a89dceb35d677122fb6c5f71a592b0c5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-azure-backup-ibiza-faq.4d57f916a89dceb35d677122fb6c5f71a592b0c5.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='592449639db4578672242e06f74390ac9486ff218'></a> Source: [Acom\articles\backup\backup-azure-backup-import-export.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-import-export.md)
@@ -1252,27 +1254,27 @@
 * [Back to Top](#report-top)
 
 ##### <a name='debfc662c5c58f444090b8a1d4f71e194962e13322'></a> Source: [Acom\articles\backup\backup-azure-vms-first-look.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-first-look.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\backup-azure-vms-first-look.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/backup/backup-azure-vms-first-look.md)
 * Handoff File: [backup-azure-vms-first-look.44b62828196fa70dc017446080c03631696a8249.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-azure-vms-first-look.44b62828196fa70dc017446080c03631696a8249.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [backup-azure-vms-first-look.44b62828196fa70dc017446080c03631696a8249.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/14c1cfc19c5287a3b194ac098d547dec4e2c83d7/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/backup-azure-vms-first-look.44b62828196fa70dc017446080c03631696a8249.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:09:16
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [backup-azure-vms-first-look.44b62828196fa70dc017446080c03631696a8249.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-azure-vms-first-look.44b62828196fa70dc017446080c03631696a8249.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='35e3445e8283a26541d3d4957b089985b5e1cbfc21'></a> Source: [Acom\articles\backup\backup-azure-vms-first-look-arm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-first-look-arm.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\backup-azure-vms-first-look-arm.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/backup/backup-azure-vms-first-look-arm.md)
 * Handoff File: [backup-azure-vms-first-look-arm.615ea8fdc03efc792620c2bdfdd8585fa4eae0b4.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-azure-vms-first-look-arm.615ea8fdc03efc792620c2bdfdd8585fa4eae0b4.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [backup-azure-vms-first-look-arm.615ea8fdc03efc792620c2bdfdd8585fa4eae0b4.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/14c1cfc19c5287a3b194ac098d547dec4e2c83d7/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/backup-azure-vms-first-look-arm.615ea8fdc03efc792620c2bdfdd8585fa4eae0b4.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:09:16
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [backup-azure-vms-first-look-arm.615ea8fdc03efc792620c2bdfdd8585fa4eae0b4.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-azure-vms-first-look-arm.615ea8fdc03efc792620c2bdfdd8585fa4eae0b4.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='2cbdcd65d357d03421c70043c512fb610c1f70fb23'></a> Source: [Acom\articles\backup\backup-azure-vms-introduction.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-vms-introduction.md)
@@ -1348,27 +1350,27 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8097538ebc8f5a550ec749f2becfa9307662227f30'></a> Source: [Acom\articles\backup\backup-introduction-to-azure-backup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-introduction-to-azure-backup.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\backup-introduction-to-azure-backup.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/backup/backup-introduction-to-azure-backup.md)
 * Handoff File: [backup-introduction-to-azure-backup.1921fe0268e73fd9fb30c06aa2a816affbf2d37c.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-introduction-to-azure-backup.1921fe0268e73fd9fb30c06aa2a816affbf2d37c.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [backup-introduction-to-azure-backup.1921fe0268e73fd9fb30c06aa2a816affbf2d37c.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/14c1cfc19c5287a3b194ac098d547dec4e2c83d7/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/backup-introduction-to-azure-backup.1921fe0268e73fd9fb30c06aa2a816affbf2d37c.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:09:16
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [backup-introduction-to-azure-backup.1921fe0268e73fd9fb30c06aa2a816affbf2d37c.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-introduction-to-azure-backup.1921fe0268e73fd9fb30c06aa2a816affbf2d37c.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='dbd0aafa45295a1126493c9c582bdb6805f8688631'></a> Source: [Acom\articles\backup\backup-try-azure-backup-in-10-mins.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-try-azure-backup-in-10-mins.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\backup-try-azure-backup-in-10-mins.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/backup/backup-try-azure-backup-in-10-mins.md)
 * Handoff File: [backup-try-azure-backup-in-10-mins.6a21824a3747781599c406acc538f8348f4dc03f.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-try-azure-backup-in-10-mins.6a21824a3747781599c406acc538f8348f4dc03f.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [backup-try-azure-backup-in-10-mins.6a21824a3747781599c406acc538f8348f4dc03f.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/14c1cfc19c5287a3b194ac098d547dec4e2c83d7/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/backup-try-azure-backup-in-10-mins.6a21824a3747781599c406acc538f8348f4dc03f.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:09:16
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [backup-try-azure-backup-in-10-mins.6a21824a3747781599c406acc538f8348f4dc03f.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/backup-try-azure-backup-in-10-mins.6a21824a3747781599c406acc538f8348f4dc03f.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='527b6cd19f5b402286dea94e5aa3070b784bfc9232'></a> Source: [Acom\articles\backup\media\backup-azure-alternate-dpm-server\add-external-dpm.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-alternate-dpm-server/add-external-dpm.png)
@@ -5305,15 +5307,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b8181dee84738bf982cc86328bd201c251413e1f283'></a> Source: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-attributes.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-attributes.png)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-attributes.png](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-attributes.png)
 * Handoff File: [b8181dee84738bf982cc86328bd201c251413e1f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/f108efb962727c603edd4008925d9c22ed6a61d1/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/b8181dee84738bf982cc86328bd201c251413e1f.png)
 * Handoff Datetime: 2016-04-13 06:01:42
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [b8181dee84738bf982cc86328bd201c251413e1f.png](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/b8181dee84738bf982cc86328bd201c251413e1f.png)
+* Handback Datetime: 2016-04-19 21:35:59
 * Dependency From: Acom\articles\backup\backup-azure-vms-first-look-arm.md
 * [Back to Top](#report-top)
 
@@ -6168,27 +6170,27 @@
 * [Back to Top](#report-top)
 
 ##### <a name='4d822800e9ea3d3a1a2761246e86c04691c68e9d405'></a> Source: [Acom\articles\batch\batch-account-create-portal.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-account-create-portal.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\batch\batch-account-create-portal.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/batch/batch-account-create-portal.md)
 * Handoff File: [batch-account-create-portal.78ed134d44517208203c7577a9dc09f9c474871f.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-account-create-portal.78ed134d44517208203c7577a9dc09f9c474871f.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [batch-account-create-portal.78ed134d44517208203c7577a9dc09f9c474871f.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2a2da481502e1e917f9411cc548a2380573cf1b0/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/batch-account-create-portal.78ed134d44517208203c7577a9dc09f9c474871f.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:10:49
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [batch-account-create-portal.78ed134d44517208203c7577a9dc09f9c474871f.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-account-create-portal.78ed134d44517208203c7577a9dc09f9c474871f.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='8f1c9fd9ce857488c7f63ca93010a9dc79e89f64406'></a> Source: [Acom\articles\batch\batch-api-basics.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-api-basics.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\batch\batch-api-basics.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/batch/batch-api-basics.md)
 * Handoff File: [batch-api-basics.7d8c16c61ff0de117097f75adf8e7eb4704abaeb.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-api-basics.7d8c16c61ff0de117097f75adf8e7eb4704abaeb.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [batch-api-basics.7d8c16c61ff0de117097f75adf8e7eb4704abaeb.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2a2da481502e1e917f9411cc548a2380573cf1b0/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/batch-api-basics.7d8c16c61ff0de117097f75adf8e7eb4704abaeb.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:10:49
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [batch-api-basics.7d8c16c61ff0de117097f75adf8e7eb4704abaeb.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-api-basics.7d8c16c61ff0de117097f75adf8e7eb4704abaeb.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='e58a6ee5ebfe03fac3fc4dd40d5f1659370ccf5d407'></a> Source: [Acom\articles\batch\batch-application-packages.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-application-packages.md)
@@ -6216,15 +6218,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='8d2f63b09170266c96a385f297c11abc420d76f4409'></a> Source: [Acom\articles\batch\batch-dotnet-get-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-dotnet-get-started.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\batch\batch-dotnet-get-started.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/batch/batch-dotnet-get-started.md)
 * Handoff File: [batch-dotnet-get-started.ae7ffeb9c6299793956301ca2964a1afa7d2fd88.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-dotnet-get-started.ae7ffeb9c6299793956301ca2964a1afa7d2fd88.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [batch-dotnet-get-started.ae7ffeb9c6299793956301ca2964a1afa7d2fd88.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2a2da481502e1e917f9411cc548a2380573cf1b0/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/batch-dotnet-get-started.ae7ffeb9c6299793956301ca2964a1afa7d2fd88.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:10:49
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [batch-dotnet-get-started.ae7ffeb9c6299793956301ca2964a1afa7d2fd88.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-dotnet-get-started.ae7ffeb9c6299793956301ca2964a1afa7d2fd88.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='e1df113c233d787c9f705656e159ebd9aaef8d23410'></a> Source: [Acom\articles\batch\batch-efficient-list-queries.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-efficient-list-queries.md)
@@ -6240,15 +6242,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='204322288d283f4a126da2e1fb08fdb690eac77b411'></a> Source: [Acom\articles\batch\batch-hpc-solutions.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-hpc-solutions.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\batch\batch-hpc-solutions.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/batch/batch-hpc-solutions.md)
 * Handoff File: [batch-hpc-solutions.d4223b718daf6f80be9975cea9f454dcc76ef415.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-hpc-solutions.d4223b718daf6f80be9975cea9f454dcc76ef415.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [batch-hpc-solutions.d4223b718daf6f80be9975cea9f454dcc76ef415.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2a2da481502e1e917f9411cc548a2380573cf1b0/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/batch-hpc-solutions.d4223b718daf6f80be9975cea9f454dcc76ef415.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:10:49
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [batch-hpc-solutions.d4223b718daf6f80be9975cea9f454dcc76ef415.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-hpc-solutions.d4223b718daf6f80be9975cea9f454dcc76ef415.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='87f830cfcb09761dcd739e8d61cd80fa75d13b84412'></a> Source: [Acom\articles\batch\batch-job-prep-release.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-job-prep-release.md)
@@ -6300,15 +6302,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='028eebd51820b5f8ccdb06ae2d9cfcad40655db6416'></a> Source: [Acom\articles\batch\batch-powershell-cmdlets-get-started.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-powershell-cmdlets-get-started.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\batch\batch-powershell-cmdlets-get-started.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/batch/batch-powershell-cmdlets-get-started.md)
 * Handoff File: [batch-powershell-cmdlets-get-started.3e697d2ff119d81476a7ed1d89a0a26f5de7d02c.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-powershell-cmdlets-get-started.3e697d2ff119d81476a7ed1d89a0a26f5de7d02c.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [batch-powershell-cmdlets-get-started.3e697d2ff119d81476a7ed1d89a0a26f5de7d02c.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2a2da481502e1e917f9411cc548a2380573cf1b0/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/batch-powershell-cmdlets-get-started.3e697d2ff119d81476a7ed1d89a0a26f5de7d02c.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:10:49
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [batch-powershell-cmdlets-get-started.3e697d2ff119d81476a7ed1d89a0a26f5de7d02c.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-powershell-cmdlets-get-started.3e697d2ff119d81476a7ed1d89a0a26f5de7d02c.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='7d65f8be949abe9a1b1b51fb31d81ead9f730fe5417'></a> Source: [Acom\articles\batch\batch-quota-limit.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-quota-limit.md)
@@ -6324,27 +6326,27 @@
 * [Back to Top](#report-top)
 
 ##### <a name='679580df2b8a4e9e8ca618337fe31d52e9b79c86418'></a> Source: [Acom\articles\batch\batch-technical-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-technical-overview.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\batch\batch-technical-overview.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/batch/batch-technical-overview.md)
 * Handoff File: [batch-technical-overview.c36133f85fe4e21f595fe5d23b7723f138ea7519.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-technical-overview.c36133f85fe4e21f595fe5d23b7723f138ea7519.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [batch-technical-overview.c36133f85fe4e21f595fe5d23b7723f138ea7519.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2a2da481502e1e917f9411cc548a2380573cf1b0/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/batch-technical-overview.c36133f85fe4e21f595fe5d23b7723f138ea7519.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:10:49
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [batch-technical-overview.c36133f85fe4e21f595fe5d23b7723f138ea7519.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/batch-technical-overview.c36133f85fe4e21f595fe5d23b7723f138ea7519.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='d76e075fb4020d1dd50a8a30261df6f89b6f0e2f419'></a> Source: [Acom\articles\batch\big-compute-resources.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/big-compute-resources.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\batch\big-compute-resources.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/batch/big-compute-resources.md)
 * Handoff File: [big-compute-resources.1a84d464e3fb971511cb80e47753ed92db34a9f5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/big-compute-resources.1a84d464e3fb971511cb80e47753ed92db34a9f5.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [big-compute-resources.1a84d464e3fb971511cb80e47753ed92db34a9f5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/2a2da481502e1e917f9411cc548a2380573cf1b0/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/big-compute-resources.1a84d464e3fb971511cb80e47753ed92db34a9f5.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:10:49
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [big-compute-resources.1a84d464e3fb971511cb80e47753ed92db34a9f5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/big-compute-resources.1a84d464e3fb971511cb80e47753ed92db34a9f5.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='9d9fb1633af4e5cd0ff5ae6c35a58e17f8da5312420'></a> Source: [Acom\articles\batch\media\batch-account-create-portal\account_keys.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/batch/media/batch-account-create-portal/account_keys.PNG)
@@ -7089,15 +7091,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='c458b5352591df29d088dc8127ef6e943c42adfb478'></a> Source: [Acom\articles\cloud-services-python-ptvs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/cloud-services-python-ptvs.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\cloud-services-python-ptvs.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/8592a82fd491a4d5c2a9a4c2b39c392141860749/Acom/articles/cloud-services-python-ptvs.md)
 * Handoff File: [cloud-services-python-ptvs.b2245db6f217fce1ff6a00cf408d99fea0b774d5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/cloud-services-python-ptvs.b2245db6f217fce1ff6a00cf408d99fea0b774d5.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [cloud-services-python-ptvs.b2245db6f217fce1ff6a00cf408d99fea0b774d5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/db5375f923ff4106d009662a7e27ff8c3b0024e4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/archive/cloud-services-python-ptvs.b2245db6f217fce1ff6a00cf408d99fea0b774d5.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:12:34
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [cloud-services-python-ptvs.b2245db6f217fce1ff6a00cf408d99fea0b774d5.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/31cfc016a783337487375806d0c83b489ef382e6/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_hi/cloud-services-python-ptvs.b2245db6f217fce1ff6a00cf408d99fea0b774d5.es-es.xlf)
+* Handback Datetime: 2016-04-19 21:35:59
 * [Back to Top](#report-top)
 
 ##### <a name='231d4a855a76dc7f68ef4d98c1ef953c0cf85f18479'></a> Source: [Acom\articles\guidance\guidance-compute-3-tier-vm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/guidance/guidance-compute-3-tier-vm.md)
