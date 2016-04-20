@@ -5,12 +5,12 @@
  -------- | ----- 
  Total Files | 951
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 398
+[ Handoff Success Files ](#handoff-success-list)| 397
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 48
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 50
+[ In Sync Handback Files ](#insync-handback-success-list)| 51
 [ Ignored Files ](#ignored-list)| 455
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -185,7 +185,6 @@
  [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\final-install\venus-installation-screen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/final-install/venus-installation-screen.png) | HandedOffSuccess | [Details](#3eaba364860e42680564f3c96c94510de78f818e211)
  [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\launch-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/launch-screen2.png) | HandedOffSuccess | [Details](#068163e4f7e0befcb8a3dd4993598424c52e47be212)
  [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\mars\04.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/mars/04.png) | HandedOffSuccess | [Details](#7b53bb1ecf3e1d5421c315d9a6bdb87c6b53abac216)
- [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\prereq-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/prereq-screen2.png) | HandedOffSuccess | [Details](#2a083198705d38c37f3b7fbc37965ab6278902cb220)
  [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\security-screen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/security-screen.png) | HandedOffSuccess | [Details](#7f838c8cefbc121c813ad3d647e928bef2a58c10222)
  [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\space-screen.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/space-screen.png) | HandedOffSuccess | [Details](#a78895bdcc876116028082c1d914112984acbf1e223)
  [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\sql\01.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/sql/01.png) | HandedOffSuccess | [Details](#7847c5bd6af4b55331cc9c6a2f670056c70e9e49224)
@@ -505,6 +504,7 @@
  [Acom\articles\backup\backup-dpm-automation.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-dpm-automation.md) | InSyncHandedBackSuccess | [Details](#a7bfb7552664d1bd93f02944a2846cc568b3951429)
  [Acom\articles\backup\backup-introduction-to-azure-backup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-introduction-to-azure-backup.md) | InSyncHandedBackSuccess | [Details](#8097538ebc8f5a550ec749f2becfa9307662227f30)
  [Acom\articles\backup\backup-try-azure-backup-in-10-mins.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-try-azure-backup-in-10-mins.md) | InSyncHandedBackSuccess | [Details](#dbd0aafa45295a1126493c9c582bdb6805f8688631)
+ [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\prereq-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/prereq-screen2.png) | InSyncHandedBackSuccess | [Details](#2a083198705d38c37f3b7fbc37965ab6278902cb220)
  [Acom\articles\backup\media\backup-azure-vms-first-look-arm\rs-vault-attributes.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-vms-first-look-arm/rs-vault-attributes.png) | InSyncHandedBackSuccess | [Details](#b8181dee84738bf982cc86328bd201c251413e1f283)
  [Acom\articles\batch\batch-account-create-portal.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-account-create-portal.md) | InSyncHandedBackSuccess | [Details](#4d822800e9ea3d3a1a2761246e86c04691c68e9d405)
  [Acom\articles\batch\batch-api-basics.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/batch/batch-api-basics.md) | InSyncHandedBackSuccess | [Details](#8f1c9fd9ce857488c7f63ca93010a9dc79e89f64406)
@@ -3797,15 +3797,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='2a083198705d38c37f3b7fbc37965ab6278902cb220'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\prereq-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/prereq-screen2.png)
-* Status: HandedOffSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\prereq-screen2.png](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/94771ff1a6b4752967135aca32eab740f9d07b2d/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/prereq-screen2.png)
 * Handoff File: [2a083198705d38c37f3b7fbc37965ab6278902cb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/f108efb962727c603edd4008925d9c22ed6a61d1/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/2a083198705d38c37f3b7fbc37965ab6278902cb.png)
 * Handoff Datetime: 2016-04-13 06:01:42
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [2a083198705d38c37f3b7fbc37965ab6278902cb.png](https://github.com/OpenLocalizationOrg/olhandback/blob/79e161e992f968a5511a2be167bd840200680710/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/2a083198705d38c37f3b7fbc37965ab6278902cb.png)
+* Handback Datetime: 2016-04-20 10:21:23
 * Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
 * [Back to Top](#report-top)
 

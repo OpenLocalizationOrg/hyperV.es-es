@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "bd4e4d57c7eb785c2d1b12cdc11883539832c6d7",
-  "LastTranslatedCommit": "55aeecf0cedc7c3257907fe0ec937fda340c52ec",
+  "LastTranslatedCommit": "94771ff1a6b4752967135aca32eab740f9d07b2d",
   "Items": {
     "00a716125fd77ede83e6d09813bd30f6228c5b55": {
       "FileHash": "00a716125fd77ede83e6d09813bd30f6228c5b55",
@@ -7311,14 +7311,14 @@
       "HandoffPriority": "acomdc_nonhi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "94771ff1a6b4752967135aca32eab740f9d07b2d",
+      "TargetFilePath": "Acom\\articles\\backup\\media\\backup-azure-microsoft-azure-backup\\prereq\\prereq-screen2.png",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.es-es\\master\\acomdc_nonhi\\2a083198705d38c37f3b7fbc37965ab6278902cb.png",
+      "HandbackFileCommit": "79e161e992f968a5511a2be167bd840200680710",
+      "HandbackDateTime": "2016-04-20T10:21:23.8283272Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "2016-04-20T10:21:23.8283272Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",
