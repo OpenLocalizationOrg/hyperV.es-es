@@ -1,27 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\prereq-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/prereq-screen2.png) | InSyncHandedBackSuccess | [Details](#2a083198705d38c37f3b7fbc37965ab6278902cb220)
 
 ## Item Details
-##### <a name='2a083198705d38c37f3b7fbc37965ab6278902cb220'></a> Source: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\prereq-screen2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/prereq-screen2.png)
-* Status: InSyncHandedBackSuccess
-* Target File: [Acom\articles\backup\media\backup-azure-microsoft-azure-backup\prereq\prereq-screen2.png](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/94771ff1a6b4752967135aca32eab740f9d07b2d/Acom/articles/backup/media/backup-azure-microsoft-azure-backup/prereq/prereq-screen2.png)
-* Handoff File: [2a083198705d38c37f3b7fbc37965ab6278902cb.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/f108efb962727c603edd4008925d9c22ed6a61d1/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/2a083198705d38c37f3b7fbc37965ab6278902cb.png)
-* Handoff Datetime: 2016-04-13 06:01:42
-* Handoff Reason: IsDependency
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [2a083198705d38c37f3b7fbc37965ab6278902cb.png](https://github.com/OpenLocalizationOrg/olhandback/blob/79e161e992f968a5511a2be167bd840200680710/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/2a083198705d38c37f3b7fbc37965ab6278902cb.png)
-* Handback Datetime: 2016-04-20 10:21:23
-* Dependency From: Acom\articles\backup\backup-azure-microsoft-azure-backup.md
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
