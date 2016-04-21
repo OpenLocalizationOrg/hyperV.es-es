@@ -7,10 +7,10 @@
 [ Handoff Failed Files ](#handoff-failed-list)| 0
 [ Handoff Success Files ](#handoff-success-list)| 397
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 48
+[ Archive Success Files ](#archive-success-list)| 47
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
-[ In Sync Handback Files ](#insync-handback-success-list)| 50
+[ In Sync Handback Files ](#insync-handback-success-list)| 51
 [ Ignored Files ](#ignored-list)| 455
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -422,7 +422,6 @@
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [Acom\articles\architecture-overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/architecture-overview.md) | ArchivedSuccess | [Details](#6a035e91348d8a2e558f5d392ae2e980475739a82)
- [Acom\articles\backup\backup-azure-alternate-dpm-server.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-alternate-dpm-server.md) | ArchivedSuccess | [Details](#eb5048319e03357015f249815803227960442dfc3)
  [Acom\articles\backup\backup-azure-backup-faq.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-faq.md) | ArchivedSuccess | [Details](#0b5d9283448ec67f7eae5e19ca1c295b27ff23c66)
  [Acom\articles\guidance\guidance-compute-3-tier-vm.md](https://github.com/OpenLocalizationOrg/hyperV/blob/bd4e4d57c7eb785c2d1b12cdc11883539832c6d7/Acom/articles/guidance/guidance-compute-3-tier-vm.md) | ArchivedSuccess | [Details](#231d4a855a76dc7f68ef4d98c1ef953c0cf85f18479)
  [README.md](https://github.com/OpenLocalizationOrg/hyperV/blob/15eecef5c8e13125048b7d697f8b1799d087b8d0/README.md) | ArchivedSuccess | [Details](#00a716125fd77ede83e6d09813bd30f6228c5b55688)
@@ -480,6 +479,7 @@
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [Acom\articles\backup\backup-azure-alternate-dpm-server.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-alternate-dpm-server.md) | InSyncHandedBackSuccess | [Details](#eb5048319e03357015f249815803227960442dfc3)
  [Acom\articles\backup\backup-azure-backup-cloud-as-tape.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-cloud-as-tape.md) | InSyncHandedBackSuccess | [Details](#c58e3b8b26cd13e273be2fbb37ce03a31c09a06a4)
  [Acom\articles\backup\backup-azure-backup-exchange-server.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-exchange-server.md) | InSyncHandedBackSuccess | [Details](#502bf3fb986f2490751127290df34eef504bd0b65)
  [Acom\articles\backup\backup-azure-backup-import-export.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-import-export.md) | InSyncHandedBackSuccess | [Details](#592449639db4578672242e06f74390ac9486ff218)
@@ -1028,15 +1028,15 @@
 * [Back to Top](#report-top)
 
 ##### <a name='eb5048319e03357015f249815803227960442dfc3'></a> Source: [Acom\articles\backup\backup-azure-alternate-dpm-server.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-alternate-dpm-server.md)
-* Status: ArchivedSuccess
-* Target File: 
+* Status: InSyncHandedBackSuccess
+* Target File: [Acom\articles\backup\backup-azure-alternate-dpm-server.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/cc4d7973a9ae7be6d9d89722e708893967459e29/Acom/articles/backup/backup-azure-alternate-dpm-server.md)
 * Handoff File: [backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf)
 * Handoff Datetime: 2016-04-13 05:21:46
 * Handoff Reason: Include
 * Archive File: [backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/14c1cfc19c5287a3b194ac098d547dec4e2c83d7/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/archive/backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf)
 * Archive Datetime: 2016-04-15 05:09:16
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback File: [backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/d48f9f9881aefaa64e66ad791c83346e18a38d8d/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf)
+* Handback Datetime: 2016-04-21 23:01:39
 * [Back to Top](#report-top)
 
 ##### <a name='c58e3b8b26cd13e273be2fbb37ce03a31c09a06a4'></a> Source: [Acom\articles\backup\backup-azure-backup-cloud-as-tape.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-backup-cloud-as-tape.md)
