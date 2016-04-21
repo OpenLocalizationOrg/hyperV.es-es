@@ -1,26 +1,11 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 1
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [Acom\articles\backup\backup-azure-alternate-dpm-server.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-alternate-dpm-server.md) | InSyncHandedBackSuccess | [Details](#eb5048319e03357015f249815803227960442dfc3)
 
 ## Item Details
-##### <a name='eb5048319e03357015f249815803227960442dfc3'></a> Source: [Acom\articles\backup\backup-azure-alternate-dpm-server.md](https://github.com/OpenLocalizationOrg/hyperV/blob/7a9e9f3f9e76ffa9bd1c869569a1c49280850136/Acom/articles/backup/backup-azure-alternate-dpm-server.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [Acom\articles\backup\backup-azure-alternate-dpm-server.md](https://github.com/OpenLocalizationOrg/hyperV.es-es/blob/cc4d7973a9ae7be6d9d89722e708893967459e29/Acom/articles/backup/backup-azure-alternate-dpm-server.md)
-* Handoff File: [backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/7265c4d3ec9f3ee8d67fe2102371ff6aa4a757a4/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf)
-* Handoff Datetime: 2016-04-13 05:21:46
-* Handoff Reason: Include
-* Archive File: [backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/14c1cfc19c5287a3b194ac098d547dec4e2c83d7/ol-handoff/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/archive/backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf)
-* Archive Datetime: 2016-04-15 05:09:16
-* Handback File: [backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/d48f9f9881aefaa64e66ad791c83346e18a38d8d/ol-handback/OpenLocalizationOrg/hyperV.es-es/master/acomdc_nonhi/backup-azure-alternate-dpm-server.bcc2c5562185291769fd481c4b867794637558e2.es-es.xlf)
-* Handback Datetime: 2016-04-21 23:01:39
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
